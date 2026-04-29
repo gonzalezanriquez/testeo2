@@ -7,9 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php require_once __DIR__ . '/saludo.php'; ?>
 
 
-    <h1> <?php echo saludo()?></h1>
+    <h1> HOLA</h1>
 </body>
 </html>
