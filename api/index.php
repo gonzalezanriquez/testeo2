@@ -8,7 +8,11 @@
 </head>
 <body>
 
-<?php include("saludo.php") ?>
-    <h1> HOLA</h1>
+<?php include("saludo.php")
+
+
+
+?>
+    <h1> <?php echo hola() ?> </h1>
 </body>
 </html>
