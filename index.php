@@ -8,5 +8,8 @@
 </head>
 <body>
     <?php include saludo.php ?>
+
+
+    <h1> <?php echo saludo()?></h1>
 </body>
 </html>
