@@ -1,7 +1,7 @@
 <?php
 
 function hola(){
-    return "hola";
+    return "12434";
 }
 
 ?>
